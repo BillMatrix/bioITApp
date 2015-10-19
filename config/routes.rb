@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'static_pages#hello'
+  root 'static_pages#Hello'
   
   get 'static_pages/help'
   
